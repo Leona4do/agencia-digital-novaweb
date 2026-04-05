@@ -6,7 +6,7 @@
 
 /* ===== 1. VARIABLES DE COLOR (Tema Oscuro + Azul) ===== */
 :root {
-    --color-principal:  #00B4D8; /* Azul claro tecnológico */
+    --color-principal:  #1A237E; /* Azul claro tecnológico */
     --color-secundario: #0077B6; /* Azul medio */
     --color-fondo:      #0A1128; /* Azul muy oscuro casi negro */
     --color-fondo-alt:  #121F3D; /* Fondo para tarjetas y secciones alternas */
