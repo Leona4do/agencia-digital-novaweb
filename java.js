@@ -25,7 +25,7 @@ formulario.addEventListener('submit', (evento) => {
     }
 
     if (!regexEmail.test(email)) {
-        mensajeEstado.innerText = "Error: El formato del correo no es válido.";
+        mensajeEstado.innerText = "Error: Formato de correo no válido.";
         mensajeEstado.style.color = "red";
         return;
     }
